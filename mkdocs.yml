@@ -10,5 +10,5 @@ site_dir: site
 
 nav:
   - Home: index.md
-  - Privacy Policy: privacy_policy.md
-  - Terms of Service: terms_of_service.md
+  - Privacy Policy: privacy_policy.html
+  - Terms of Service: terms_of_service.html
