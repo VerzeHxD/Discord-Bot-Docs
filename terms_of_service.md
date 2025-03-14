@@ -2,7 +2,7 @@
 
 **Last Updated: March 14, 2025**
 
-Welcome to **[Your Bot Name]** ("the Bot"). By using this Bot, you acknowledge and agree to the following Terms of Service ("ToS"). If you do not agree, please discontinue use immediately.
+Welcome to **Artist Bot** ("the Bot"). By using this Bot, you acknowledge and agree to the following Terms of Service ("ToS"). If you do not agree, please discontinue use immediately.
 
 ---
 
