@@ -1,0 +1,14 @@
+site_name: '[Artist Bot] Documentation'
+theme:
+  name: 'material'
+
+# Make sure 'docs_dir' points to the docs folder
+docs_dir: docs
+
+# The site_dir is the folder where the built files will go (make sure it's not inside 'docs')
+site_dir: site
+
+nav:
+  - Home: index.md
+  - Privacy Policy: privacy_policy.md
+  - Terms of Service: terms_of_service.md
