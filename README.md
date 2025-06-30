@@ -6,8 +6,8 @@ Welcome to the official documentation for the **Horizon Bot**. This documentatio
 
 ## Table of Contents
 
-1. [Privacy Policy](#privacy-policy)
-2. [Terms of Service](#terms-of-service)
+1. [Privacy Policy](https://github.com/VerzeHxD/Discord-Bot-Docs/blob/main/privacy_policy.md)
+2. [Terms of Service](https://github.com/VerzeHxD/Discord-Bot-Docs/blob/main/terms_of_service.md)
 
 ---
 
