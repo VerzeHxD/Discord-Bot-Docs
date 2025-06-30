@@ -1,8 +1,8 @@
-**Privacy Policy for "Artist Bot"**
+**Privacy Policy for "Horizon"**
 
 **Last Updated: 3/14/2025**
 
-By using "Artist Bot" ("the Bot"), you acknowledge and agree to the collection and use of certain data as outlined in this Privacy Policy. This policy explains what information the Bot collects, how it is used, and your rights regarding your data.
+By using "Horizon, you acknowledge and agree to the collection and use of certain data as outlined in this Privacy Policy. This policy explains what information the Bot collects, how it is used, and your rights regarding your data.
 
 ---
 
