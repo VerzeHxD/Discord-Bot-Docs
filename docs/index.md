@@ -1,6 +1,6 @@
-# Welcome to [Artist Bot] Documentation
+# Welcome to  Horizon Documentation
 
-Welcome to the official documentation for the Artist Bot!
+Welcome to the official documentation for Horizon!
 
 ## Links:
 - [Privacy Policy](privacy_policy.md)
