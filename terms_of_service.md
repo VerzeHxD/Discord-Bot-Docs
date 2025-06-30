@@ -1,6 +1,6 @@
 # 🌐 **Terms of Service**
 
-**Last Updated: March 14, 2025**
+**Last Updated: June 30, 2025**
 
 Welcome to **Horizon**, By using this Bot, you acknowledge and agree to the following Terms of Service ("ToS"). If you do not agree, please discontinue use immediately.
 
