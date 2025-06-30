@@ -1,6 +1,6 @@
 # Discord Bot Docs
 
-Welcome to the official documentation for the **Artist Bot**. This documentation provides details on the privacy policy and terms of service for using the bot.
+Welcome to the official documentation for the **Horizon Bot**. This documentation provides details on the privacy policy and terms of service for using the bot.
 
 ---
 
